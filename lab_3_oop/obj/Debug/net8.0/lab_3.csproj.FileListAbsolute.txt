@@ -1,0 +1,15 @@
+C:\Users\w69953\Desktop\lab_3_oop\bin\Debug\net8.0\lab_3.exe
+C:\Users\w69953\Desktop\lab_3_oop\bin\Debug\net8.0\lab_3.deps.json
+C:\Users\w69953\Desktop\lab_3_oop\bin\Debug\net8.0\lab_3.runtimeconfig.json
+C:\Users\w69953\Desktop\lab_3_oop\bin\Debug\net8.0\lab_3.dll
+C:\Users\w69953\Desktop\lab_3_oop\bin\Debug\net8.0\lab_3.pdb
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.AssemblyInfoInputs.cache
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.AssemblyInfo.cs
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.csproj.CoreCompileInputs.cache
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.sourcelink.json
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.dll
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\refint\lab_3.dll
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.pdb
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\lab_3.genruntimeconfig.cache
+C:\Users\w69953\Desktop\lab_3_oop\obj\Debug\net8.0\ref\lab_3.dll
